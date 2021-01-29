@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/habitica-challenge-learning/static/css/main.a0b3114c.chunk.css",
+    "main.js": "/habitica-challenge-learning/static/js/main.14751c15.chunk.js",
+    "main.js.map": "/habitica-challenge-learning/static/js/main.14751c15.chunk.js.map",
+    "runtime-main.js": "/habitica-challenge-learning/static/js/runtime-main.a6607176.js",
+    "runtime-main.js.map": "/habitica-challenge-learning/static/js/runtime-main.a6607176.js.map",
+    "static/css/2.55ccbe94.chunk.css": "/habitica-challenge-learning/static/css/2.55ccbe94.chunk.css",
+    "static/js/2.5b227617.chunk.js": "/habitica-challenge-learning/static/js/2.5b227617.chunk.js",
+    "static/js/2.5b227617.chunk.js.map": "/habitica-challenge-learning/static/js/2.5b227617.chunk.js.map",
+    "static/js/3.1f4fce4d.chunk.js": "/habitica-challenge-learning/static/js/3.1f4fce4d.chunk.js",
+    "static/js/3.1f4fce4d.chunk.js.map": "/habitica-challenge-learning/static/js/3.1f4fce4d.chunk.js.map",
+    "index.html": "/habitica-challenge-learning/index.html",
+    "static/css/2.55ccbe94.chunk.css.map": "/habitica-challenge-learning/static/css/2.55ccbe94.chunk.css.map",
+    "static/css/main.a0b3114c.chunk.css.map": "/habitica-challenge-learning/static/css/main.a0b3114c.chunk.css.map",
+    "static/js/2.5b227617.chunk.js.LICENSE.txt": "/habitica-challenge-learning/static/js/2.5b227617.chunk.js.LICENSE.txt",
+    "static/media/brand.ea18e0e2.svg": "/habitica-challenge-learning/static/media/brand.ea18e0e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6607176.js",
+    "static/css/2.55ccbe94.chunk.css",
+    "static/js/2.5b227617.chunk.js",
+    "static/css/main.a0b3114c.chunk.css",
+    "static/js/main.14751c15.chunk.js"
+  ]
+}
